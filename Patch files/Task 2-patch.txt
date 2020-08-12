@@ -69,7 +69,7 @@ index 0728518..77c3fab 100755
 +        });
 +      });
 +      x++;
-+      if (x > 1000)
++      if (x> 1000)
 +      {
 +        clearInterval(interval);
 +      } 
